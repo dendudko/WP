@@ -5,5 +5,8 @@
   },
   "scripts": {
     "build": "SET NODE_ENV='production' && webpack"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
   }
 }
